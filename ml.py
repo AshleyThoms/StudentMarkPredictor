@@ -9,8 +9,6 @@ st.set_page_config(page_title=" Student Marks Prediction",page_icon="😬",layou
 st.title("🤖🤖 Student Marks Predictor 🤖🤖")
 st.write("Enter The Number Od Hours Studied (1-10) And **Click Predict** To See The Predicted Mark")
 
-# Load The Model
-
 def load_model(model):
     with open(model,"rb") as f:
         slr = pickle.load(f)
