@@ -1,4 +1,4 @@
-# 🎓 Student Mark Predictor 🎓
+# 🎓 Student Mark Predictor 
 
 A simple Machine Learning web app that predicts student marks based on the number of study hours.
 
@@ -6,13 +6,13 @@ This project was built as part of my AI & ML learning journey after completing a
 
 ---
 
-## 🚀 Demo 🚀
+## 🚀 Demo 
 
 Live App: https://studentmarkpredictor-ashley.streamlit.app
 
 ---
 
-## 📌 Features 📌
+## 📌 Features 
 
 - Predict student marks based on study hours
 - Simple and interactive Streamlit interface
@@ -22,7 +22,7 @@ Live App: https://studentmarkpredictor-ashley.streamlit.app
 
 ---
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack 
 
 - Python
 - Pandas
@@ -32,7 +32,7 @@ Live App: https://studentmarkpredictor-ashley.streamlit.app
 
 ---
 
-## 📂 Project Structure 📂
+## 📂 Project Structure 
 
 ```bash
 student-mark-predictor/
@@ -46,7 +46,16 @@ student-mark-predictor/
 
 ---
 
-## 💡 What I Learned 💡
+## ▶️ Run Locally 
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 💡 What I Learned 
 
 Through this project, I learned:
 
